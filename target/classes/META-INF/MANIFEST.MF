@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sabre
+Build-Jdk: 11.0.26
+Specification-Title: Commons Email
+Specification-Version: 1.3.2
+Implementation-Title: Commons Email
+Implementation-Version: 1.3.2
+Implementation-Vendor-Id: org.apache.commons
+Created-By: Maven Integration for Eclipse
+
